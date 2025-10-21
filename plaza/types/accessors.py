@@ -6,6 +6,8 @@ class HashDBKeys(Enum):
     BagSave     =  0x21C9BD44
     CoreData    =  FnvHash.hash_fnv1a_32("UserData_keyCoreData")
     PokeDex     =  FnvHash.hash_fnv1a_32("POKEDEX_SAVE_DATA")
+    DressUp     =  FnvHash.hash_fnv1a_32("PLAYER_SAVE_DATA")
+    BoxSave     =  FnvHash.hash_fnv1a_32("BoxPokemon_KeyPokemon")
 
 
 # * Currently Known Plaintext Block Keys
