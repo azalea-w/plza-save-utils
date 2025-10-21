@@ -21,3 +21,4 @@ This is a tool to parse and modify PLZA savefiles, this library is used for the 
 - [plza-recovery](https://github.com/azalea-w/plza-recovery): Script to recover corrupted plza saves!
 - [plza-recover-web](https://github.com/azalea-w/plza-recovery-web): Web version of the save recovery script, hosted at [https://pl.azalea.sh/](https://pl.azalea.sh/)!
 - [PLZA Quick Save Edit](https://github.com/azalea-w/plza-qse): Small save editor script for TID and Gender!
+- [PLZA Trainer Info](https://github.com/nemo1st/plza-trainer-info): Save editor to edit Trainer name and TID/SID
