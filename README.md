@@ -13,3 +13,11 @@ This is a tool to parse and modify PLZA savefiles, this library is used for the 
 - The maintainers of [PKHeX](https://github.com/kwsch/PKHeX/) for implementing SwishCrypto
 - GameFreak for creating the game
 - @entropiccode for [their exploration of the items](https://github.com/entropiccode/legends_za_item_codes/)
+
+## Projects using this library:
+- [PLZA Bag Editor](https://github.com/lucaspaulukx/plza-bag-editor): Edit your bag easily!
+- [PLZA Easy Repair](https://github.com/Cracky0001/PLZA-Easy-Repair): An installable GUI for my plza-recovery script!
+- [PLZA Pokedex Editor](https://github.com/AngeHell47/PLZA-Pokedex-Editor): Edit your Pokedex!
+- [plza-recovery](https://github.com/azalea-w/plza-recovery): Script to recover corrupted plza saves!
+- [plza-recover-web](https://github.com/azalea-w/plza-recovery-web): Web version of the save recovery script, hosted at [https://pl.azalea.sh/](https://pl.azalea.sh/)!
+- [PLZA Quick Save Edit](https://github.com/azalea-w/plza-qse): Small save editor script for TID and Gender!
