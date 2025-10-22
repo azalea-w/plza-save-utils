@@ -1,5 +1,5 @@
 from enum import Enum
-from ..crypto import FnvHash
+from ..crypto.fnvhash import FnvHash
 
 class HashDBKeys(Enum):
     UNKNOWN     = -1

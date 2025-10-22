@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from ..types import CategoryType
+from ..types.bagsave import CategoryType
 
 pwd = Path(__file__).parent
 

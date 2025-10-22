@@ -13,6 +13,7 @@ This is a tool to parse and modify PLZA savefiles, this library is used for the 
 - The maintainers of [PKHeX](https://github.com/kwsch/PKHeX/) for implementing SwishCrypto
 - GameFreak for creating the game
 - @entropiccode for [their exploration of the items](https://github.com/entropiccode/legends_za_item_codes/)
+- @Ruimusume for [their dump of the pokemon forms](https://github.com/Ruimusume/PLZA)
 
 ## Projects using this library:
 - [PLZA Bag Editor](https://github.com/lucaspaulukx/plza-bag-editor): Edit your bag easily!

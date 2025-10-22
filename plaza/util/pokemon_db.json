@@ -1,0 +1,1532 @@
+{
+    "1": {
+        "name_en": "Bulbasaur",
+        "forms": [
+            0
+        ]
+    },
+    "2": {
+        "name_en": "Ivysaur",
+        "forms": [
+            0
+        ]
+    },
+    "3": {
+        "name_en": "Venusaur",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "4": {
+        "name_en": "Charmander",
+        "forms": [
+            0
+        ]
+    },
+    "5": {
+        "name_en": "Charmeleon",
+        "forms": [
+            0
+        ]
+    },
+    "6": {
+        "name_en": "Charizard",
+        "forms": [
+            0,
+            1,
+            2
+        ]
+    },
+    "7": {
+        "name_en": "Squirtle",
+        "forms": [
+            0
+        ]
+    },
+    "8": {
+        "name_en": "Wartortle",
+        "forms": [
+            0
+        ]
+    },
+    "9": {
+        "name_en": "Blastoise",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "13": {
+        "name_en": "Weedle",
+        "forms": [
+            0
+        ]
+    },
+    "14": {
+        "name_en": "Kakuna",
+        "forms": [
+            0
+        ]
+    },
+    "15": {
+        "name_en": "Beedrill",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "16": {
+        "name_en": "Pidgey",
+        "forms": [
+            0
+        ]
+    },
+    "17": {
+        "name_en": "Pidgeotto",
+        "forms": [
+            0
+        ]
+    },
+    "18": {
+        "name_en": "Pidgeot",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "23": {
+        "name_en": "Ekans",
+        "forms": [
+            0
+        ]
+    },
+    "24": {
+        "name_en": "Arbok",
+        "forms": [
+            0
+        ]
+    },
+    "25": {
+        "name_en": "Pikachu",
+        "forms": [
+            0
+        ]
+    },
+    "26": {
+        "name_en": "Raichu",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "35": {
+        "name_en": "Clefairy",
+        "forms": [
+            0
+        ]
+    },
+    "36": {
+        "name_en": "Clefable",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "63": {
+        "name_en": "Abra",
+        "forms": [
+            0
+        ]
+    },
+    "64": {
+        "name_en": "Kadabra",
+        "forms": [
+            0
+        ]
+    },
+    "65": {
+        "name_en": "Alakazam",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "66": {
+        "name_en": "Machop",
+        "forms": [
+            0
+        ]
+    },
+    "67": {
+        "name_en": "Machoke",
+        "forms": [
+            0
+        ]
+    },
+    "68": {
+        "name_en": "Machamp",
+        "forms": [
+            0
+        ]
+    },
+    "69": {
+        "name_en": "Bellsprout",
+        "forms": [
+            0
+        ]
+    },
+    "70": {
+        "name_en": "Weepinbell",
+        "forms": [
+            0
+        ]
+    },
+    "71": {
+        "name_en": "Victreebel",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "79": {
+        "name_en": "Slowpoke",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "80": {
+        "name_en": "Slowbro",
+        "forms": [
+            0,
+            1,
+            2
+        ]
+    },
+    "92": {
+        "name_en": "Gastly",
+        "forms": [
+            0
+        ]
+    },
+    "93": {
+        "name_en": "Haunter",
+        "forms": [
+            0
+        ]
+    },
+    "94": {
+        "name_en": "Gengar",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "95": {
+        "name_en": "Onix",
+        "forms": [
+            0
+        ]
+    },
+    "115": {
+        "name_en": "Kangaskhan",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "120": {
+        "name_en": "Staryu",
+        "forms": [
+            0
+        ]
+    },
+    "121": {
+        "name_en": "Starmie",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "123": {
+        "name_en": "Scyther",
+        "forms": [
+            0
+        ]
+    },
+    "127": {
+        "name_en": "Pinsir",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "129": {
+        "name_en": "Magikarp",
+        "forms": [
+            0
+        ]
+    },
+    "130": {
+        "name_en": "Gyarados",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "133": {
+        "name_en": "Eevee",
+        "forms": [
+            0
+        ]
+    },
+    "134": {
+        "name_en": "Vaporeon",
+        "forms": [
+            0
+        ]
+    },
+    "135": {
+        "name_en": "Jolteon",
+        "forms": [
+            0
+        ]
+    },
+    "136": {
+        "name_en": "Flareon",
+        "forms": [
+            0
+        ]
+    },
+    "142": {
+        "name_en": "Aerodactyl",
+        "forms": [
+            0
+        ]
+    },
+    "147": {
+        "name_en": "Dratini",
+        "forms": [
+            0
+        ]
+    },
+    "148": {
+        "name_en": "Dragonair",
+        "forms": [
+            0
+        ]
+    },
+    "149": {
+        "name_en": "Dragonite",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "150": {
+        "name_en": "Mewtwo",
+        "forms": [
+            0,
+            1,
+            2
+        ]
+    },
+    "152": {
+        "name_en": "Chikorita",
+        "forms": [
+            0
+        ]
+    },
+    "153": {
+        "name_en": "Bayleef",
+        "forms": [
+            0
+        ]
+    },
+    "154": {
+        "name_en": "Meganium",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "158": {
+        "name_en": "Totodile",
+        "forms": [
+            0
+        ]
+    },
+    "159": {
+        "name_en": "Croconaw",
+        "forms": [
+            0
+        ]
+    },
+    "160": {
+        "name_en": "Feraligatr",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "167": {
+        "name_en": "Spinarak",
+        "forms": [
+            0
+        ]
+    },
+    "168": {
+        "name_en": "Ariados",
+        "forms": [
+            0
+        ]
+    },
+    "172": {
+        "name_en": "Pichu",
+        "forms": [
+            0
+        ]
+    },
+    "173": {
+        "name_en": "Cleffa",
+        "forms": [
+            0
+        ]
+    },
+    "179": {
+        "name_en": "Mareep",
+        "forms": [
+            0
+        ]
+    },
+    "180": {
+        "name_en": "Flaaffy",
+        "forms": [
+            0
+        ]
+    },
+    "181": {
+        "name_en": "Ampharos",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "196": {
+        "name_en": "Espeon",
+        "forms": [
+            0
+        ]
+    },
+    "197": {
+        "name_en": "Umbreon",
+        "forms": [
+            0
+        ]
+    },
+    "199": {
+        "name_en": "Slowking",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "208": {
+        "name_en": "Steelix",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "212": {
+        "name_en": "Scizor",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "214": {
+        "name_en": "Heracross",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "225": {
+        "name_en": "Delibird",
+        "forms": [
+            0
+        ]
+    },
+    "227": {
+        "name_en": "Skarmory",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "228": {
+        "name_en": "Houndour",
+        "forms": [
+            0
+        ]
+    },
+    "229": {
+        "name_en": "Houndoom",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "246": {
+        "name_en": "Larvitar",
+        "forms": [
+            0
+        ]
+    },
+    "247": {
+        "name_en": "Pupitar",
+        "forms": [
+            0
+        ]
+    },
+    "248": {
+        "name_en": "Tyranitar",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "280": {
+        "name_en": "Ralts",
+        "forms": [
+            0
+        ]
+    },
+    "281": {
+        "name_en": "Kirlia",
+        "forms": [
+            0
+        ]
+    },
+    "282": {
+        "name_en": "Gardevoir",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "302": {
+        "name_en": "Sableye",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "303": {
+        "name_en": "Mawile",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "304": {
+        "name_en": "Aron",
+        "forms": [
+            0
+        ]
+    },
+    "305": {
+        "name_en": "Lairon",
+        "forms": [
+            0
+        ]
+    },
+    "306": {
+        "name_en": "Aggron",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "307": {
+        "name_en": "Meditite",
+        "forms": [
+            0
+        ]
+    },
+    "308": {
+        "name_en": "Medicham",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "309": {
+        "name_en": "Electrike",
+        "forms": [
+            0
+        ]
+    },
+    "310": {
+        "name_en": "Manectric",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "315": {
+        "name_en": "Roselia",
+        "forms": [
+            0
+        ]
+    },
+    "318": {
+        "name_en": "Carvanha",
+        "forms": [
+            0
+        ]
+    },
+    "319": {
+        "name_en": "Sharpedo",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "322": {
+        "name_en": "Numel",
+        "forms": [
+            0
+        ]
+    },
+    "323": {
+        "name_en": "Camerupt",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "333": {
+        "name_en": "Swablu",
+        "forms": [
+            0
+        ]
+    },
+    "334": {
+        "name_en": "Altaria",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "353": {
+        "name_en": "Shuppet",
+        "forms": [
+            0
+        ]
+    },
+    "354": {
+        "name_en": "Banette",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "359": {
+        "name_en": "Absol",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "361": {
+        "name_en": "Snorunt",
+        "forms": [
+            0
+        ]
+    },
+    "362": {
+        "name_en": "Glalie",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "371": {
+        "name_en": "Bagon",
+        "forms": [
+            0
+        ]
+    },
+    "372": {
+        "name_en": "Shelgon",
+        "forms": [
+            0
+        ]
+    },
+    "373": {
+        "name_en": "Salamence",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "374": {
+        "name_en": "Beldum",
+        "forms": [
+            0
+        ]
+    },
+    "375": {
+        "name_en": "Metang",
+        "forms": [
+            0
+        ]
+    },
+    "376": {
+        "name_en": "Metagross",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "406": {
+        "name_en": "Budew",
+        "forms": [
+            0
+        ]
+    },
+    "407": {
+        "name_en": "Roserade",
+        "forms": [
+            0
+        ]
+    },
+    "427": {
+        "name_en": "Buneary",
+        "forms": [
+            0
+        ]
+    },
+    "428": {
+        "name_en": "Lopunny",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "443": {
+        "name_en": "Gible",
+        "forms": [
+            0
+        ]
+    },
+    "444": {
+        "name_en": "Gabite",
+        "forms": [
+            0
+        ]
+    },
+    "445": {
+        "name_en": "Garchomp",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "447": {
+        "name_en": "Riolu",
+        "forms": [
+            0
+        ]
+    },
+    "448": {
+        "name_en": "Lucario",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "449": {
+        "name_en": "Hippopotas",
+        "forms": [
+            0
+        ]
+    },
+    "450": {
+        "name_en": "Hippowdon",
+        "forms": [
+            0
+        ]
+    },
+    "459": {
+        "name_en": "Snover",
+        "forms": [
+            0
+        ]
+    },
+    "460": {
+        "name_en": "Abomasnow",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "470": {
+        "name_en": "Leafeon",
+        "forms": [
+            0
+        ]
+    },
+    "471": {
+        "name_en": "Glaceon",
+        "forms": [
+            0
+        ]
+    },
+    "475": {
+        "name_en": "Gallade",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "478": {
+        "name_en": "Froslass",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "498": {
+        "name_en": "Tepig",
+        "forms": [
+            0
+        ]
+    },
+    "499": {
+        "name_en": "Pignite",
+        "forms": [
+            0
+        ]
+    },
+    "500": {
+        "name_en": "Emboar",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "504": {
+        "name_en": "Patrat",
+        "forms": [
+            0
+        ]
+    },
+    "505": {
+        "name_en": "Watchog",
+        "forms": [
+            0
+        ]
+    },
+    "511": {
+        "name_en": "Pansage",
+        "forms": [
+            0
+        ]
+    },
+    "512": {
+        "name_en": "Simisage",
+        "forms": [
+            0
+        ]
+    },
+    "513": {
+        "name_en": "Pansear",
+        "forms": [
+            0
+        ]
+    },
+    "514": {
+        "name_en": "Simisear",
+        "forms": [
+            0
+        ]
+    },
+    "515": {
+        "name_en": "Panpour",
+        "forms": [
+            0
+        ]
+    },
+    "516": {
+        "name_en": "Simipour",
+        "forms": [
+            0
+        ]
+    },
+    "529": {
+        "name_en": "Drilbur",
+        "forms": [
+            0
+        ]
+    },
+    "530": {
+        "name_en": "Excadrill",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "531": {
+        "name_en": "Audino",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "543": {
+        "name_en": "Venipede",
+        "forms": [
+            0
+        ]
+    },
+    "544": {
+        "name_en": "Whirlipede",
+        "forms": [
+            0
+        ]
+    },
+    "545": {
+        "name_en": "Scolipede",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "551": {
+        "name_en": "Sandile",
+        "forms": [
+            0
+        ]
+    },
+    "552": {
+        "name_en": "Krokorok",
+        "forms": [
+            0
+        ]
+    },
+    "553": {
+        "name_en": "Krookodile",
+        "forms": [
+            0
+        ]
+    },
+    "559": {
+        "name_en": "Scraggy",
+        "forms": [
+            0
+        ]
+    },
+    "560": {
+        "name_en": "Scrafty",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "568": {
+        "name_en": "Trubbish",
+        "forms": [
+            0
+        ]
+    },
+    "569": {
+        "name_en": "Garbodor",
+        "forms": [
+            0
+        ]
+    },
+    "582": {
+        "name_en": "Vanillite",
+        "forms": [
+            0
+        ]
+    },
+    "583": {
+        "name_en": "Vanillish",
+        "forms": [
+            0
+        ]
+    },
+    "584": {
+        "name_en": "Vanilluxe",
+        "forms": [
+            0
+        ]
+    },
+    "587": {
+        "name_en": "Emolga",
+        "forms": [
+            0
+        ]
+    },
+    "602": {
+        "name_en": "Tynamo",
+        "forms": [
+            0
+        ]
+    },
+    "603": {
+        "name_en": "Eelektrik",
+        "forms": [
+            0
+        ]
+    },
+    "604": {
+        "name_en": "Eelektross",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "607": {
+        "name_en": "Litwick",
+        "forms": [
+            0
+        ]
+    },
+    "608": {
+        "name_en": "Lampent",
+        "forms": [
+            0
+        ]
+    },
+    "609": {
+        "name_en": "Chandelure",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "618": {
+        "name_en": "Stunfisk",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "650": {
+        "name_en": "Chespin",
+        "forms": [
+            0
+        ]
+    },
+    "651": {
+        "name_en": "Quilladin",
+        "forms": [
+            0
+        ]
+    },
+    "652": {
+        "name_en": "Chesnaught",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "653": {
+        "name_en": "Fennekin",
+        "forms": [
+            0
+        ]
+    },
+    "654": {
+        "name_en": "Braixen",
+        "forms": [
+            0
+        ]
+    },
+    "655": {
+        "name_en": "Delphox",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "656": {
+        "name_en": "Froakie",
+        "forms": [
+            0
+        ]
+    },
+    "657": {
+        "name_en": "Frogadier",
+        "forms": [
+            0
+        ]
+    },
+    "658": {
+        "name_en": "Greninja",
+        "forms": [
+            0,
+            3
+        ]
+    },
+    "659": {
+        "name_en": "Bunnelby",
+        "forms": [
+            0
+        ]
+    },
+    "660": {
+        "name_en": "Diggersby",
+        "forms": [
+            0
+        ]
+    },
+    "661": {
+        "name_en": "Fletchling",
+        "forms": [
+            0
+        ]
+    },
+    "662": {
+        "name_en": "Fletchinder",
+        "forms": [
+            0
+        ]
+    },
+    "663": {
+        "name_en": "Talonflame",
+        "forms": [
+            0
+        ]
+    },
+    "664": {
+        "name_en": "Scatterbug",
+        "forms": [
+            0
+        ]
+    },
+    "665": {
+        "name_en": "Spewpa",
+        "forms": [
+            0
+        ]
+    },
+    "666": {
+        "name_en": "Vivillon",
+        "forms": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    "667": {
+        "name_en": "Litleo",
+        "forms": [
+            0
+        ]
+    },
+    "668": {
+        "name_en": "Pyroar",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "669": {
+        "name_en": "Flab\u00e9b\u00e9",
+        "forms": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    "670": {
+        "name_en": "Floette",
+        "forms": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    "671": {
+        "name_en": "Florges",
+        "forms": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    "672": {
+        "name_en": "Skiddo",
+        "forms": [
+            0
+        ]
+    },
+    "673": {
+        "name_en": "Gogoat",
+        "forms": [
+            0
+        ]
+    },
+    "674": {
+        "name_en": "Pancham",
+        "forms": [
+            0
+        ]
+    },
+    "675": {
+        "name_en": "Pangoro",
+        "forms": [
+            0
+        ]
+    },
+    "676": {
+        "name_en": "Furfrou",
+        "forms": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    "677": {
+        "name_en": "Espurr",
+        "forms": [
+            0
+        ]
+    },
+    "678": {
+        "name_en": "Meowstic",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "679": {
+        "name_en": "Honedge",
+        "forms": [
+            0
+        ]
+    },
+    "680": {
+        "name_en": "Doublade",
+        "forms": [
+            0
+        ]
+    },
+    "681": {
+        "name_en": "Aegislash",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "682": {
+        "name_en": "Spritzee",
+        "forms": [
+            0
+        ]
+    },
+    "683": {
+        "name_en": "Aromatisse",
+        "forms": [
+            0
+        ]
+    },
+    "684": {
+        "name_en": "Swirlix",
+        "forms": [
+            0
+        ]
+    },
+    "685": {
+        "name_en": "Slurpuff",
+        "forms": [
+            0
+        ]
+    },
+    "686": {
+        "name_en": "Inkay",
+        "forms": [
+            0
+        ]
+    },
+    "687": {
+        "name_en": "Malamar",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "688": {
+        "name_en": "Binacle",
+        "forms": [
+            0
+        ]
+    },
+    "689": {
+        "name_en": "Barbaracle",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "690": {
+        "name_en": "Skrelp",
+        "forms": [
+            0
+        ]
+    },
+    "691": {
+        "name_en": "Dragalge",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "692": {
+        "name_en": "Clauncher",
+        "forms": [
+            0
+        ]
+    },
+    "693": {
+        "name_en": "Clawitzer",
+        "forms": [
+            0
+        ]
+    },
+    "694": {
+        "name_en": "Helioptile",
+        "forms": [
+            0
+        ]
+    },
+    "695": {
+        "name_en": "Heliolisk",
+        "forms": [
+            0
+        ]
+    },
+    "696": {
+        "name_en": "Tyrunt",
+        "forms": [
+            0
+        ]
+    },
+    "697": {
+        "name_en": "Tyrantrum",
+        "forms": [
+            0
+        ]
+    },
+    "698": {
+        "name_en": "Amaura",
+        "forms": [
+            0
+        ]
+    },
+    "699": {
+        "name_en": "Aurorus",
+        "forms": [
+            0
+        ]
+    },
+    "700": {
+        "name_en": "Sylveon",
+        "forms": [
+            0
+        ]
+    },
+    "701": {
+        "name_en": "Hawlucha",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "702": {
+        "name_en": "Dedenne",
+        "forms": [
+            0
+        ]
+    },
+    "703": {
+        "name_en": "Carbink",
+        "forms": [
+            0
+        ]
+    },
+    "704": {
+        "name_en": "Goomy",
+        "forms": [
+            0
+        ]
+    },
+    "705": {
+        "name_en": "Sliggoo",
+        "forms": [
+            0
+        ]
+    },
+    "706": {
+        "name_en": "Goodra",
+        "forms": [
+            0
+        ]
+    },
+    "707": {
+        "name_en": "Klefki",
+        "forms": [
+            0
+        ]
+    },
+    "708": {
+        "name_en": "Phantump",
+        "forms": [
+            0
+        ]
+    },
+    "709": {
+        "name_en": "Trevenant",
+        "forms": [
+            0
+        ]
+    },
+    "710": {
+        "name_en": "Pumpkaboo",
+        "forms": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "711": {
+        "name_en": "Gourgeist",
+        "forms": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "712": {
+        "name_en": "Bergmite",
+        "forms": [
+            0
+        ]
+    },
+    "713": {
+        "name_en": "Avalugg",
+        "forms": [
+            0
+        ]
+    },
+    "714": {
+        "name_en": "Noibat",
+        "forms": [
+            0
+        ]
+    },
+    "715": {
+        "name_en": "Noivern",
+        "forms": [
+            0
+        ]
+    },
+    "716": {
+        "name_en": "Xerneas",
+        "forms": [
+            0
+        ]
+    },
+    "717": {
+        "name_en": "Yveltal",
+        "forms": [
+            0
+        ]
+    },
+    "718": {
+        "name_en": "Zygarde",
+        "forms": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    "719": {
+        "name_en": "Diancie",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "720": {
+        "name_en": "Hoopa",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "721": {
+        "name_en": "Volcanion",
+        "forms": [
+            0
+        ]
+    },
+    "780": {
+        "name_en": "Drampa",
+        "forms": [
+            0,
+            1
+        ]
+    },
+    "870": {
+        "name_en": "Falinks",
+        "forms": [
+            0,
+            1
+        ]
+    }
+}
