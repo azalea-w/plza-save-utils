@@ -19,3 +19,9 @@ jobs:
           token: ${{ secrets.TOKEN }}
           repository: azalea-w/plza-qse
           event-type: update-submodule
+      - name: Dispatch update to plza-se-web
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.TOKEN }}
+          repository: azalea-w/plza-se-web
+          event-type: update-submodule
