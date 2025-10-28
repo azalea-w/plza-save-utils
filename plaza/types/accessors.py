@@ -3,7 +3,10 @@ from ..crypto.fnvhash import FnvHash
 
 class HashDBKeys(Enum):
     UNKNOWN     = -1
-    BagSave     =  0x21C9BD44
+    # ! This is not the real Plaintext value, rather it's here as a shout-out
+    # ! To EnvyUK (@entropiccode) for their search! eNvyq3_ just so happens to be
+    # ! a hash duplicate for 0x21C9BD44; much love and appreciation!
+    BagSave = FnvHash.hash_fnv1a_32("eNvyq3_")
     CoreData    =  FnvHash.hash_fnv1a_32("UserData_keyCoreData")
     PokeDex     =  FnvHash.hash_fnv1a_32("POKEDEX_SAVE_DATA")
     DressUp     =  FnvHash.hash_fnv1a_32("PLAYER_SAVE_DATA")
